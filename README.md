@@ -1,4 +1,4 @@
-Reliability-Aware Multimodal Anomaly Detection
+## Reliability-Aware Multimodal Anomaly Detection
 A multimodal industrial anomaly detection system that investigates how vision and textual inspection information can be fused reliably under missing, corrupted, and contradictory modalities.
 Overview
 Industrial inspection systems often have access to multiple information sources, such as images and textual inspection descriptions. However, these modalities may be incomplete, corrupted, or inconsistent.
